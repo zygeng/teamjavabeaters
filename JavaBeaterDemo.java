@@ -10,7 +10,7 @@ import java.io.File;
 * The authors of this project are:
 * @author Wentao Li
 * @author Zida Wang
-* @author ZeYu Geng
+* @author Zeyu Geng
 * @author Dingyuan He
 * @author Yuchen Ge
 */
